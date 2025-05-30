@@ -1,6 +1,6 @@
 #  Java Solutions
 
-Repositório com soluções em Java para problemas do LeetCode organizados por categoria.
+Repositório com soluções em Java organizados por categoria.
 
 ## Categorias
 
