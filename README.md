@@ -1,14 +1,22 @@
-Este repositório contém minhas soluções para desafios do LeetCode, desenvolvidas em Java, com foco em aprimorar habilidades de lógica de programação, algoritmos e estruturas de dados.
+# LeetCode Java Solutions
 
-O objetivo é praticar, evoluir no raciocínio lógico e fortalecer a base para entrevistas técnicas e desafios profissionais na área de desenvolvimento e tecnologia.
-📚 Conteúdo
+Repositório com soluções em Java para problemas do LeetCode organizados por categoria.
 
-    Algoritmos
+## Categorias
 
-    Estruturas de Dados (Listas, Pilhas, Filas, Árvores, Grafos, etc.)
+- **arrays**: problemas relacionados a arrays e listas.
+- **math**: problemas de matemática e números.
+- **strings**: problemas de manipulação de strings.
+- **linkedlist**: listas ligadas.
+- **trees**: árvores binárias e outras.
+- **dynamic_programming**: programação dinâmica.
+- **graphs**: grafos e problemas relacionados.
 
-    Resolução de problemas e otimização
+## Como usar
 
-🚀 Objetivo
+Cada pasta contém arquivos `.java` com a solução para o respectivo problema.
 
-Desenvolver soluções limpas, bem comentadas e eficientes, promovendo o aprendizado contínuo e a melhoria das habilidades em Java.
+---
+
+## Quer colaborar?  
+Sinta-se à vontade para abrir issues ou pull requests.
