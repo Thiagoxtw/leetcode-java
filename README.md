@@ -1,4 +1,4 @@
-# LeetCode Java Solutions
+#  Java Solutions
 
 Repositório com soluções em Java para problemas do LeetCode organizados por categoria.
 
